@@ -1,0 +1,76 @@
+body{
+  font-family: 'Oswald', sans-serif;
+}
+
+.hr{
+ margin-left: 20%;
+ margin-right: 20%;
+}
+
+h1{
+  text-align: center;
+  font-size: 50px;
+  color: white;
+}
+
+h3{
+  text-align: center;
+  color: white;
+}
+
+h4{
+  text-align: center;
+  color: white;
+  margin-top: 50px;
+}
+
+
+.quote-button button:hover{
+  background-color: grey;
+  color: white;
+}
+
+
+
+.quote-button{
+  text-align: center;
+  position: relative;
+  padding-top: 25px;
+  margin-left: 25%;
+  margin-right: 25%;
+  
+}
+
+body{
+  background-image: url("http://www.blogofmanly.com/wp-content/uploads/2013/05/background2.jpg");
+}
+
+#quote-box{
+  background-color: white;
+  min-height: 200px;
+  width: 600px;
+  position: relative;
+  margin-left: 20%;
+  border-radius: 20px;
+  color: black;
+  width: 50%;
+  margin: 0 auto;
+ 
+  
+}
+
+.box-text{
+  color: black;
+  text-align: center;
+  padding: 7% 7%;
+  font-size: 20px;
+}
+
+.icon{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  
+}
+
+
